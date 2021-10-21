@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "60ab233aca13343294fbf0d2"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-11-11T00:00:00Z"
+  },
+  "describe": "áo được làm từ vải sợi được xuất xứ từ hàn quốc",
+  "view_counts": 35,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "name": "Áo thun from rộng hàn quốc",
+  "price": 300000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621828411/wpyd4jcfie5gnoq3fo5n.jpg",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "60ab2a1b84db8027a0fb1758"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "describe": "miêu tả sản phẩm",
+  "view_counts": 153,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "name": "Áo thun from rộng freesize",
+  "price": 200000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621830172/pgjcvbfytezi9zeqk8hb.jpg",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab34dff9eb340e4cfcf7d5"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "áo thun thể thao nam kiểu dáng hàn quốc",
+  "view_counts": 37,
+  "sales": 0,
+  "category": "Áo Nam",
+  "name": "Áo thun nam thể thao",
+  "price": 99000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621832929/ynotrezderpjrt3wvlla.jpg",
+  "id_category": "60ab2281ca13343294fbf0cd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab3546f9eb340e4cfcf7d7"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "áo polo nam kiểu dáng đẹp",
+  "view_counts": 25,
+  "sales": 0,
+  "category": "Áo Nam",
+  "name": "áo polo nam",
+  "price": 100000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621833032/sy7ruevattngnghjgkvx.jpg",
+  "id_category": "60ab2281ca13343294fbf0cd",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab35c7f9eb340e4cfcf7d8"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "describe": "áo thun nam họa tiết đẹp",
+  "view_counts": 39,
+  "sales": 0,
+  "category": "Áo Nam",
+  "name": "Ao thun nam nữ, tay rộng",
+  "price": 300000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621833161/ihh3k73qtfijkey9e5as.jpg",
+  "id_category": "60ab2281ca13343294fbf0cd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab3ba1f9eb340e4cfcf7de"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "quần thể thao nam ống rộng",
+  "view_counts": 8,
+  "sales": 0,
+  "category": "Quần Nam",
+  "name": "Quần thể thao nam ống rộng",
+  "price": 120000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1622255139/bmmgop28wbyf1iivi0gr.jpg",
+  "id_category": "60ab36e4f9eb340e4cfcf7da",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab3bd5f9eb340e4cfcf7df"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "describe": "quần đùi kaki nam",
+  "view_counts": 15,
+  "sales": 0,
+  "category": "Quần Nam",
+  "name": "quần đùi nam kaki nam",
+  "price": 70000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621834711/ywni1lzhrniu45ler0tj.jpg",
+  "id_category": "60ab36e4f9eb340e4cfcf7da",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab3c11f9eb340e4cfcf7e0"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "describe": "quần jogger nam ống suông",
+  "view_counts": 4,
+  "sales": 0,
+  "category": "Quần Nam",
+  "name": "quần jogger nam ống suông co dãn",
+  "price": 150000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621834771/ocjzn0wqcoa5owfll8zf.jpg",
+  "id_category": "60ab36e4f9eb340e4cfcf7da",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab3c8df9eb340e4cfcf7e1"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "describe": "quần thể thao sọc",
+  "view_counts": 5,
+  "sales": 0,
+  "category": "Quần Nam",
+  "name": "Quần thể thao sọc",
+  "price": 120000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621834894/nupeolozxks5tyju6v7q.jpg",
+  "id_category": "60ab36e4f9eb340e4cfcf7da",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab3e9422fb352cb0426570"
+  },
+  "size": [
+    "S,M,X,L,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "describe": "quần jogger nam kẻ sọc cá tính",
+  "view_counts": 54,
+  "sales": 0,
+  "category": "Quần Nam",
+  "name": "Quần jogger nam kẻ sọc",
+  "price": 125000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621835414/ousauos5pv3utynmvnxm.jpg",
+  "id_category": "60ab36e4f9eb340e4cfcf7da",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab3fb722fb352cb0426572"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "describe": "quần ống rộng nữ caro",
+  "view_counts": 5,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "name": "Quần ống rộng nữ ",
+  "price": 99000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621835705/jjbttgdxh7j5r0uet63z.jpg",
+  "id_category": "6161c38b90920909f015b15d",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab3fe622fb352cb0426573"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "describe": "Quần jogger nữ thẻ thao phong cách",
+  "view_counts": 1,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "name": "Quần jogger nữ thẻ thao phong cách",
+  "price": 99000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621835752/xryqdmrrmlp5iqaclfso.jpg",
+  "id_category": "6161c38b90920909f015b15d",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab401322fb352cb0426574"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "describe": "Quần nữ họa tiết caro đẹp",
+  "view_counts": 18,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "name": "Quần nữ họa tiết caro đẹp",
+  "price": 130000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621835797/meqwfp8oweqq1mswxarm.jpg",
+  "id_category": "6161c38b90920909f015b15d",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "60ab416822fb352cb0426575"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "describe": "Áo thun nữ họa tiết bò sữa",
+  "view_counts": 4,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "name": "Áo thun nữ họa tiết bò sữa",
+  "price": 125000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1621836138/h0we6kskfuplecwwjzjr.jpg",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6162a999af5f3c40a0686e81"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo polo nam cá tính, thiết kế trẻ trung năng động",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nam",
+  "id_category": "60ab2281ca13343294fbf0cd",
+  "name": "Áo polo nam cá tính",
+  "price": 149000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633855896/lyfi2v6at79tfjqmbnji.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162aa08af5f3c40a0686e91"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo hoodie dành cho nam, màu xanh cá tính",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nam",
+  "id_category": "60ab2281ca13343294fbf0cd",
+  "name": "Áo hoodie dành cho nam",
+  "price": 99000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856007/bu3sohf40gcbcps5jemj.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162aa76af5f3c40a0686e9f"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo nữ họa tiết cute, phù hợp với các bạn cute",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo nữ họa tiết cute",
+  "price": 109000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856118/xqgadhiufon2xplxikir.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162aad5af5f3c40a0686ea6"
+  },
+  "size": [
+    "L,M,S,X,XL,XXL"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Áo thun cho nữ  chất liệu cotton, kiểu dáng hàn quốc",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun cho nữ  chất liệu cotton",
+  "price": 99000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856213/bzbwjfb0nmzgmcoxkexb.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ab3daf5f3c40a0686eaf"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo thun nữ hình TRIHAL, form rộng",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun nữ hình TRIHAL ",
+  "price": 20000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856316/sujxakcy8f0mslspt8q7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ab82af5f3c40a0686eb6"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Áo thun tay lỡ hình trái bơ, kiểu dáng hàn quốc",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun tay lỡ hình trái bơ",
+  "price": 155000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856385/n3fnxgupclzjkf26fbwc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162abb3af5f3c40a0686ebd"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo thun Unisex nữ hình con bướm",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun Unisex nữ hình con bướm",
+  "price": 199000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856434/c0uqqkjttbph3cifnu7o.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162abdaaf5f3c40a0686ec4"
+  },
+  "size": [
+    "XXL,XL,X,M,S,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Áo thun họa tiết anime",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun họa tiết anime",
+  "price": 145000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856474/glxyct3ddqmaho9do6ul.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ac06af5f3c40a0686ecb"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo thun màu hồng đáng yêu",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun màu hồng đáng yêu",
+  "price": 110000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856517/pdyagbb6f857rzi3m8h2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ac5baf5f3c40a0686ede"
+  },
+  "size": [
+    "XXL,X,XL,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Áo hình trái bơ màu xanh, đặc biệt có 3 trái bơ",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo hình trái bơ màu xanh",
+  "price": 159000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856603/gkcb3qlurpao4spsra0k.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ac8daf5f3c40a0686ee5"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Áo thun nữ hình con dê",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun nữ hình con dê",
+  "price": 89000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856652/g2bepemypfpsejgecomd.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162acdeaf5f3c40a0686ef0"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Áo thun nữ the world",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Áo Nữ",
+  "id_category": "60ab2285ca13343294fbf0ce",
+  "name": "Áo thun nữ the world",
+  "price": 249000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856733/y02kz1nf8noubkgvpm1t.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ad32af5f3c40a0686efb"
+  },
+  "size": [
+    "XXL,XL,X,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Quần nữ hình bò sữa",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "id_category": "6161c38b90920909f015b15d",
+  "name": "Quần nữ hình bò sữa",
+  "price": 159000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856818/fcxxvu7kqgoo5h3zz8a7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ad7caf5f3c40a0686f02"
+  },
+  "size": [
+    "XL,XXL,S,X,L,M"
+  ],
+  "release_date": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "describe": "Quần nữ ống rộng cá tính",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "id_category": "6161c38b90920909f015b15d",
+  "name": "Quần nữ ống rộng cá tính",
+  "price": 199000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856891/oznoimxmkcqv3jnruoms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ada8af5f3c40a0686f09"
+  },
+  "size": [
+    "X,XL,XXL,S,M,L"
+  ],
+  "release_date": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "describe": "Quần thể thao nữ năng động",
+  "view_counts": 0,
+  "sales": 0,
+  "category": "Quần Nữ",
+  "id_category": "6161c38b90920909f015b15d",
+  "name": "Quần thể thao nữ năng động",
+  "price": 85000,
+  "img": "https://res.cloudinary.com/ilike/image/upload/v1633856935/ufhzie6fng60a7gjlpcd.jpg",
+  "__v": 0
+}]

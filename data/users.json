@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "60ab230fca13343294fbf0d1"
+  },
+  "is_admin": true,
+  "is_verify": true,
+  "email": "kiara96.shippo@gmail.com",
+  "firstName": "hihi",
+  "lastName": "Hòa",
+  "password": "$2b$10$gXaLj3lLYDviWfp6qXBAseNny9fql5iPzSn56gq9SNuiA3.30j1iK",
+  "address": "Trường đại học công nghệ thông tin & truyền thông thái nguyên",
+  "phone_number": "1642629725",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab441f22fb352cb042657b"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "kiara966.shippo@gmail.com",
+  "firstName": "Khanh Hòa",
+  "lastName": "Hòa",
+  "password": "$2b$10$MieSB1UteQeO1zWCeKKLseHJsHdNBAW35cJZQEDVSCXWtAtN8ctb.",
+  "address": "Trường đại học công nghệ thông tin & truyền thông thái nguyên",
+  "phone_number": "1642629725",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b1c684e53b8128c40fe88b"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "kiara99.shippo@gmail.com",
+  "firstName": "nguoi dung 1",
+  "lastName": "nguoi dung 1",
+  "password": "$2b$10$o2P9Twp4tNlVrQ8m3vNPZOANYrp8cHGaGWO1nyX8aSbpUu4J5rnLC",
+  "address": "thai nguyen",
+  "phone_number": "01234567890",
+  "token": "mWQMWxIon7f4fD0OvxpLBwf5qkA4sCqE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c79270a784db1ec0ad3232"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "kirara99.shippo@gmail.com",
+  "firstName": "khanh hoa",
+  "lastName": "lo",
+  "password": "$2b$10$WsG5owxrbZFkmHHuLNtkteKWcKM3JeGxYyrO.51iiOsHcrMc/kfmG",
+  "address": "thai nguyen",
+  "phone_number": "1234567890",
+  "token": "284494",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612b33a0ca2f340a10a67e98"
+  },
+  "is_admin": false,
+  "is_verify": true,
+  "email": "khanhhoa01ictu@gmail.com",
+  "firstName": "khanhhoa",
+  "lastName": "hichic",
+  "password": "$2b$10$MIstYSZ7k0nlBydiYdHaQOCj.PRekWF0Zlawh659mz.rLhRUpcuay",
+  "address": "thai nguyen",
+  "phone_number": "0342629725",
+  "token": "624191",
+  "__v": 0,
+  "is_manage": false
+},{
+  "_id": {
+    "$oid": "615c0088e8030f175c138a62"
+  },
+  "is_admin": false,
+  "is_manage": true,
+  "is_verify": true,
+  "email": "test2@gmail.com",
+  "firstName": "hanh nguya",
+  "lastName": "hanh hoe",
+  "password": "$2b$10$wqmAmmXf9BPW7U7lxEzRsOsUiGeEWyetxWIjQDXFRjBk3Cuj0.LnC",
+  "address": "ha noi",
+  "phone_number": "01234567891",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162d952210de1411815513d"
+  },
+  "is_admin": true,
+  "is_manage": false,
+  "is_verify": true,
+  "email": "test3@gmail.com",
+  "firstName": "Nguyễn",
+  "lastName": "Awwww",
+  "password": "$2b$10$2LJ79Ef/TyVfDd1XW8du8OiD4XLfADfR6whdAp9KmzJ/BU2UJd5fG",
+  "address": "Hà Nội Việt Nam",
+  "phone_number": "01234567891",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616305ec026e15284888246d"
+  },
+  "is_admin": true,
+  "is_manage": false,
+  "is_verify": true,
+  "email": "test4@gmail.com",
+  "firstName": "Nguyễn",
+  "lastName": "Aádsad",
+  "password": "$2b$10$OM9N3yrwE.DsbWLYKyFJYuNY/lA2Q8y5JH9R62FHvmvPzVkedTTmO",
+  "address": "Hà Nội Việt Nam",
+  "phone_number": "01234567891",
+  "__v": 0
+}]
